@@ -1,0 +1,16 @@
+techcareers-calculator-wp-plugin {
+    display: block;
+    margin: 0 0 1.5rem;
+}
+
+#techcareers-calculator-wp-plugin input,
+#techcareers-calculator-wp-plugin select {
+    display: block;
+    margin: 0.25rem 0 0;
+}
+
+#techcareers-calculator-wp-plugin [type="submit"] {
+  
+    margin: 1.5rem 0;
+    cursor: pointer;
+}
